@@ -744,7 +744,7 @@ let stores = [{
     "ownershipTypeCode": "CO",
     "open": true,
     "openStatusText": "Open until 6:00 PM",
-    "addressLines": ["8783 West Pico Blvd", "Los Angeles, CA 90035"],
+    "addressLines": ["Cnr Rivonia Road & Katherine", "Sandton"],
     "mop": {
         "ready": false,
         "wait": null
